@@ -1,4 +1,4 @@
-package com.example.crese.bmiapp;
+package com.christianresendiz.bmiapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

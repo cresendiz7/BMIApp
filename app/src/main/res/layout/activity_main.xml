@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:clickable="true"
     android:focusableInTouchMode="true"
-    tools:context="com.example.crese.bmiapp.MainActivity">
+    tools:context="com.christianresendiz.bmiapp.MainActivity">
 
     <ImageView
         android:layout_width="200dp"

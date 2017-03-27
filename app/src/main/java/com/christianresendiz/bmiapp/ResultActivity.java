@@ -1,4 +1,4 @@
-package com.example.crese.bmiapp;
+package com.christianresendiz.bmiapp;
 
 import android.graphics.Color;
 import android.os.Bundle;

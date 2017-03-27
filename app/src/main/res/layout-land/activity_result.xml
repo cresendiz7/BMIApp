@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.crese.bmiapp.ResultActivity">
+    tools:context="com.christianresendiz.bmiapp.ResultActivity">
 
     <TextView
         android:text="@string/b_m_i"

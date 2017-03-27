@@ -1,4 +1,4 @@
-package com.example.crese.bmiapp;
+package com.christianresendiz.bmiapp;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

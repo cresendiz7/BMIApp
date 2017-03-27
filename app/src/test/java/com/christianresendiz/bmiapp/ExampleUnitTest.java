@@ -1,4 +1,4 @@
-package com.example.crese.bmiapp;
+package com.christianresendiz.bmiapp;
 
 import org.junit.Test;
 
